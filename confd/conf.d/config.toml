@@ -1,0 +1,8 @@
+[template]
+src = "gitiles.config.tmpl"
+dest = "/usr/src/app/gitiles.config"
+keys = [
+    "CANONICAL_HOST_NAME",
+    "BASE_GIT_URL",
+    "SITE_TITLE"
+]
